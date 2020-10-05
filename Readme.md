@@ -5,7 +5,7 @@ This is akan name generator, a user will be required to input their date of birt
 ## Live DEMO
 You can find the working example here: [ https://robaa2168.github.io/akan-names/ ]
 
-#### Installation
+## Installation
 All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
 and there you go
 ## Usage
@@ -17,9 +17,9 @@ Uploaded to github
 
 ## Built With
 
-** HTML**
-** CSS **
-** Javascript **
+* **HTM**
+* **CSS**
+* **Javascript**
 
 
 ## Contributing
