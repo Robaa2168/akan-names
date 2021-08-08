@@ -1,9 +1,9 @@
-#  AKAN NAMES
+> #  AKAN NAMES
 
-This is akan name generator, a user will be required to input their date of birth and the akan name will be generated automatically for him/her
+> This is akan name generator, a user will be required to input their date of birth and the akan name will be generated automatically for him/her
 
-## Live DEMO
-You can find the working example here: [ https://robaa2168.github.io/akan-names/ ]
+> ## Live DEMO
+> You can find the working example here: [ https://robaa2168.github.io/akan-names/ ]
 
 ## Installation
 All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
