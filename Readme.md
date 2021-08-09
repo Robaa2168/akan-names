@@ -5,10 +5,10 @@
 > ## Live DEMO
 > You can find the working example here: [ https://robaa2168.github.io/akan-names/ ]
 
-## Installation
-All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
-and there you go
-## Usage
+> ## Installation
+> All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
+> and there you go
+> ## Usage
 Clone or fork the repository and start modifying the HTML & CSS files.
 
 
