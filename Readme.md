@@ -9,20 +9,20 @@
 > All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
 > and there you go
 > ## Usage
-Clone or fork the repository and start modifying the HTML & CSS files.
+> Clone or fork the repository and start modifying the HTML & CSS files.
 
 
-## Deployment
-Uploaded to github
+> ## Deployment
+> Uploaded to github
 
-## Built With
+> ## Built With
 
-* **HTM**
-* **CSS**
-* **Javascript**
+> * **HTM**
+> * **CSS**
+> * **Javascript**
 
 
-## Contributing
+> ## Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
