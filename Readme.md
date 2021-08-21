@@ -1,18 +1,18 @@
-> #  AKAN NAMES
+#  AKAN NAMES
 
 > This is akan name generator, a user will be required to input their date of birth and the akan name will be generated automatically for him/her
 
-> ## Live DEMO
+## Live DEMO
 > You can find the working example here: [ https://robaa2168.github.io/akan-names/ ]
 
-> ## Installation
+## Installation
 > All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
 > and there you go
-> ## Usage
+## Usage
 > Clone or fork the repository and start modifying the HTML & CSS files.
 
 
-> ## Deployment
+## Deployment
 > Uploaded to github
 
 > ## Built With
@@ -22,7 +22,7 @@
 > * **Javascript**
 
 
-> ## Contributing
+## Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
