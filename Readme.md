@@ -32,11 +32,11 @@
 
 ## Versioning
 
-Version 1.0
-Version 1.01
+> Version 1.0
+> Version 1.01
 ## Author
 
-* [ROBERT KIPKOECH]()
+> * [ROBERT KIPKOECH]()
 
 ## License
 MIT
